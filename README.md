@@ -1,5 +1,5 @@
 This repository contains the code to reproduce the results in 
-"The combination of feedforward and feedback processing accounts for contextual effects in visual cortex"
+"The combination of feedforward and feedback processing accounts for contextual effects in mouse visual cortex"
 
 GHcode_SSN1celltype.cpp allows to simulate the minimal model (once the inputs are set -- from data preprocessing) 
 
